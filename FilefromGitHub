@@ -1,2 +1,5 @@
 This file i have created on Github. now i want it in my project which is on local machine.
 Using Git i need to pull this.
+
+Git command is  :
+git pull origin master
