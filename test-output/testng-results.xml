@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13083" started-at="2022-11-23T05:44:52Z" finished-at="2022-11-23T05:45:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13083" started-at="2022-11-23T05:44:52Z" finished-at="2022-11-23T05:45:06Z">
+      <class name="com.Orangehrm.testCases.TC001_UserLoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Orangehrm.testCases.TC001_UserLoginTest@48bb62]" name="setup" is-config="true" duration-ms="9750" started-at="2022-11-23T05:44:52Z" finished-at="2022-11-23T05:45:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.Orangehrm.testCases.TC001_UserLoginTest@48bb62]" name="LoginTest" duration-ms="2530" started-at="2022-11-23T05:45:02Z" finished-at="2022-11-23T05:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Orangehrm.testCases.TC001_UserLoginTest@48bb62]" name="teardown" is-config="true" duration-ms="785" started-at="2022-11-23T05:45:05Z" finished-at="2022-11-23T05:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Orangehrm.testCases.TC001_UserLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

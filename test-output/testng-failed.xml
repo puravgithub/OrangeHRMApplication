@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RegressionSuite]">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="TC001_UserLoginTest(failed)">
+    <classes>
+      <class name="com.Orangehrm.testCases.TC001_UserLoginTest">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Orangehrm.testCases.TC001_UserLoginTest -->
+    </classes>
+  </test> <!-- TC001_UserLoginTest(failed) -->
+  <test thread-count="5" name="TC002_ForgotYourPasswordLinkDisplayedTest(failed)">
+    <classes>
+      <class name="com.Orangehrm.testCases.TC002_ForgotYourPasswordLinkDisplayedTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="forgotYourPasswordTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Orangehrm.testCases.TC002_ForgotYourPasswordLinkDisplayedTest -->
+    </classes>
+  </test> <!-- TC002_ForgotYourPasswordLinkDisplayedTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

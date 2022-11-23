@@ -1,0 +1,120 @@
+[INFO ] 16-11-2022 11:25:24.332 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 16-11-2022 11:25:29.703 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 11:25:32.541 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 11:25:33.276 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 11:31:41.568 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 16-11-2022 11:31:46.931 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 11:31:47.586 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 11:31:48.317 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 11:32:20.086 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 16-11-2022 11:32:27.077 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 11:32:30.125 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 11:32:30.882 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 11:47:26.545 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 16-11-2022 11:47:31.806 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 11:47:34.429 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 11:47:35.233 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 11:47:37.108 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 16-11-2022 11:47:41.200 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 11:47:41.721 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 11:47:42.480 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 12:32:13.120 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 16-11-2022 12:32:17.740 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 12:32:22.559 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 12:32:23.334 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 12:32:25.102 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 16-11-2022 12:32:27.788 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 12:32:28.206 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 12:32:28.939 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 01:46:01.382 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 16-11-2022 01:46:13.708 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 01:46:16.509 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 01:46:17.246 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 02:02:13.770 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 02:02:20.197 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 02:02:24.143 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 02:02:25.074 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 02:02:27.690 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 16-11-2022 02:02:31.715 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 02:02:32.475 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 02:02:33.389 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 03:52:50.878 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 03:52:55.949 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 03:52:59.225 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 03:53:00.201 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 03:53:01.737 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 16-11-2022 03:53:05.337 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 03:53:05.947 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 03:53:06.808 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 03:53:35.361 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 03:53:41.024 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 03:53:44.052 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 03:53:44.944 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 03:53:46.667 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 16-11-2022 03:53:50.020 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 03:53:50.720 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 03:53:51.565 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 03:55:48.529 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 03:55:52.366 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 03:55:55.400 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 03:55:56.311 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 03:55:57.935 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 16-11-2022 03:56:13.583 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 03:56:14.545 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 03:56:15.477 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 04:17:35.637 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 04:17:42.918 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 04:17:45.665 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 04:17:46.494 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 04:17:47.649 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 16-11-2022 04:17:54.874 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 04:17:55.629 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 04:17:56.442 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 04:25:46.721 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 04:25:53.335 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 04:25:56.095 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 04:25:56.939 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 04:25:58.280 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 16-11-2022 04:26:12.887 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 04:26:13.604 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 04:26:14.462 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 04:26:31.420 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 04:26:37.564 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 04:26:40.239 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 04:26:41.082 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 04:26:42.383 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 16-11-2022 04:26:47.408 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 04:26:48.132 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 04:26:48.941 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 04:50:14.118 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 04:50:22.598 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 04:50:25.622 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 04:50:26.466 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 04:50:27.792 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 16-11-2022 04:50:34.381 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 04:50:34.899 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 04:50:35.731 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 05:38:41.838 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 05:38:46.621 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 05:38:49.210 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 05:38:50.073 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 16-11-2022 05:38:51.240 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 16-11-2022 05:38:54.652 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 16-11-2022 05:38:55.093 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 16-11-2022 05:38:55.885 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 16-11-2022 05:39:53.166 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 16-11-2022 05:39:56.334 TC001_UserLoginTest - Application is launched.
+[INFO ] 16-11-2022 05:39:58.781 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 16-11-2022 05:39:59.614 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 18-11-2022 06:26:20.857 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 18-11-2022 06:26:24.404 TC001_UserLoginTest - Application is launched.
+[INFO ] 18-11-2022 06:26:27.222 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 18-11-2022 06:26:28.157 TC001_UserLoginTest - Application  Closed successfully
+[INFO ] 18-11-2022 06:26:29.514 TC002_ForgotYourPasswordLinkDisplayedTest - Edge browser is launched
+[INFO ] 18-11-2022 06:26:37.540 TC002_ForgotYourPasswordLinkDisplayedTest - Application is launched.
+[INFO ] 18-11-2022 06:26:38.467 TC002_ForgotYourPasswordLinkDisplayedTest - Forgot your password? link is existing
+[INFO ] 18-11-2022 06:26:39.385 TC002_ForgotYourPasswordLinkDisplayedTest - Application  Closed successfully
+[INFO ] 23-11-2022 11:14:58.970 TC001_UserLoginTest - Edge browser is launched
+[INFO ] 23-11-2022 11:15:02.675 TC001_UserLoginTest - Application is launched.
+[INFO ] 23-11-2022 11:15:05.216 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 23-11-2022 11:15:06.001 TC001_UserLoginTest - Application  Closed successfully
